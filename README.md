@@ -1,4 +1,4 @@
 # omg
 this is my first repo
 </br>
-author - om goswami
+author - om (omg)
